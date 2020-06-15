@@ -112,19 +112,19 @@
 <table align="center">
     <tr>
         <td style="text-align:center">
-            <a href="https://github.com/eng-wilson" target="blank" rel="noopener"><img src="https://avatars2.githubusercontent.com/u/39011719?s=115&u=e8f21d6f29b423d99478af447fb7148ea1f47870&v=4"><br><sub>@eng-wilson | React Dev.</sub></a>
+            <a href="https://github.com/insanedays" target="blank" rel="noopener"><img src="https://avatars0.githubusercontent.com/u/62510469?s=115&v=4"><br><sub>@insanedays | BIZ Dev.</sub></a>
         </td>
         <td></td>
         <td style="text-align:center">
-            <a href="https://github.com/BrewertonSantos" target="blank" rel="noopener"><img src="https://avatars2.githubusercontent.com/u/55927647?s=115&u=fdd724c245678796918063eb59d9e60be52f6e54&v=4"><br><sub>@BrewertonSantos | .C# Dev</sub></a>
+            <a href="https://github.com/BrewertonSantos" target="blank" rel="noopener"><img src="https://avatars2.githubusercontent.com/u/55927647?s=115&u=fdd724c245678796918063eb59d9e60be52f6e54&v=4"><br><sub>@BrewertonSantos | C# Dev</sub></a>
         </td>
-         <td></td>
-        <td style="text-align:center">
-            <a href="https://github.com/insanedays" target="blank" rel="noopener"><img src="https://avatars0.githubusercontent.com/u/62510469?s=115&v=4"><br><sub>@insanedays | BIZ Dev.</sub></a>
-        </td>
-         <td></td>
+        <td></td>
         <td style="text-align:center">
             <a href="https://github.com/felipetanso" target="blank" rel="noopener"><img src="https://avatars0.githubusercontent.com/u/5841447?s=115&v=4"><br><sub>@felipetanso | BIZ Dev.</sub></a>
+        </td>
+        <td></td>
+        <td style="text-align:center">
+            <a href="https://github.com/eng-wilson" target="blank" rel="noopener"><img src="https://avatars2.githubusercontent.com/u/39011719?s=115&u=e8f21d6f29b423d99478af447fb7148ea1f47870&v=4"><br><sub>@eng-wilson | React Dev.</sub></a>
         </td>
     </tr>
 </table>
