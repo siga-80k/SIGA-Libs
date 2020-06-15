@@ -13,7 +13,9 @@
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/siga-80k/SIGA-Libs.svg">
 
-  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/430e60f15a4c484898f4cac9408ce90b)](https://app.codacy.com/manual/BrewertonSantos/SIGA-Libs?utm_source=github.com&utm_medium=referral&utm_content=BrewertonSantos/SIGA-Libs&utm_campaign=Badge_Grade_Dashboard)
+    <a href="https://www.codacy.com/app/BrewertonSantos/SIGA-Libs?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BrewertonSantos/SIGA-Libs&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy grade" src="https://api.codacy.com/project/badge/Grade/430e60f15a4c484898f4cac9408ce90b">
+  </a>
 
 # Resume
 
