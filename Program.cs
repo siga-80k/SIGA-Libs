@@ -40,7 +40,7 @@ namespace Speech.Recognition
                     //  Console.WriteLine($"Texto Gravado: {result.Text}");
                     break;
                 case ResultReason.NoMatch:
-                    Console.WriteLine($"Palavra chave não encontrada na frase correspondente: Speech could not be recognized.");
+                    Console.WriteLine($"Erro de interpretação: Speech could not be recognized.");
                     break;
                 case ResultReason.Canceled:
                     var cancellation = CancellationDetails.FromResult(result);
@@ -54,31 +54,20 @@ namespace Speech.Recognition
                     }
                     break;
             }
+            
+                Console.WriteLine(result.Text);
 
-            msgu = Console.ReadLine();
-
-            if (msgu == "n")
-            {
-                Environment.Exit(0);
-            }
-            else if (msgu == "s")
-            {
-                Console.WriteLine(msg);
-
-                string word = "wilson";
-                string second = "Wilson";
+                string word = result.Text;
 
                 if (result.Text.Contains(word) | result.Text.Contains(second))
                 {
-                    Console.WriteLine("have.");
+                    Console.WriteLine("Command Detected");
                 }
 
                 else
                 {
-                    Console.WriteLine("");
-                    Email.Send("", "");
+                    Console.WriteLine("Try Again");
                 }
-            }
         }
     }
 }
