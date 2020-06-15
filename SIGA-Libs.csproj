@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>CCR_DEV_Tool</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Helpers\TeleCom\email\model.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Auth" Version="1.46.0" />
+    <PackageReference Include="Mailkit" Version="2.7.0" />
+    <PackageReference Include="Microsoft.CognitiveServices.Speech" Version="1.12.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Include="Helpers\TeleCom\email\model.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Helpers\TeleCom\email\trigger.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Components\" />
+  </ItemGroup>
+
+</Project>
