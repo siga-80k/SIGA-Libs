@@ -8,6 +8,7 @@
 <h4 align="center">
   This repository contains all libs about this project with the referenced program languages.
 </h4>
+
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/siga-80k/SIGA-Libs">
 
@@ -65,6 +66,12 @@
     Exibir informações de alertas de pânico de outros caminhoneiros
   </p>
 
+  <p align="center">
+    <a href="https://bit.ly/2YGgZvQ" target="_blank">
+      <img alt="Apk Demo" src="https://i.imgur.com/ekMIWIA.png">
+    </a>
+  </p>
+
 # SIGA - BAND
 
   <p>
@@ -100,15 +107,24 @@
     Ao criarmos um sistema de alerta descentralizado, graças ao sistema SIGA COM, é possível transformar os veículos na estrada e até mesmo pontos estratégicos como postos de gasolina, em roteadores que aumentam o alcance do rádio. Dessa forma, a informação pode ser transportada em vários saltos sem fio, passando por vários dispositivos, permitindo a aplicabilidade de IoT mesmo em áreas sem rede disponível, e se mostra como mais uma alternativa de comunicação, reduzindo os efeitos dos jammers (inibidores de GPS).
   </p>
 
-  
+
 # Equipe de desenvolvimento
-<table>
+<table align="center">
     <tr>
         <td style="text-align:center">
-            <a href="https://github.com/eng-wilson" target="blank" rel="noopener"><img src="https://avatars2.githubusercontent.com/u/39011719?s=115&u=e8f21d6f29b423d99478af447fb7148ea1f47870&v=4"><br><sub>@eng-wilson</sub></a>
+            <a href="https://github.com/eng-wilson" target="blank" rel="noopener"><img src="https://avatars2.githubusercontent.com/u/39011719?s=115&u=e8f21d6f29b423d99478af447fb7148ea1f47870&v=4"><br><sub>@eng-wilson | React Dev.</sub></a>
         </td>
+        <td></td>
         <td style="text-align:center">
-            <a href="https://github.com/BrewertonSantos" target="blank" rel="noopener"><img src="https://avatars2.githubusercontent.com/u/55927647?s=115&u=fdd724c245678796918063eb59d9e60be52f6e54&v=4"><br><sub>@BrewertonSantos</sub></a>
+            <a href="https://github.com/BrewertonSantos" target="blank" rel="noopener"><img src="https://avatars2.githubusercontent.com/u/55927647?s=115&u=fdd724c245678796918063eb59d9e60be52f6e54&v=4"><br><sub>@BrewertonSantos | .C# Dev</sub></a>
+        </td>
+         <td></td>
+        <td style="text-align:center">
+            <a href="https://github.com/insanedays" target="blank" rel="noopener"><img src="https://avatars0.githubusercontent.com/u/62510469?s=115&v=4"><br><sub>@insanedays | Business Dev.</sub></a>
+        </td>
+         <td></td>
+        <td style="text-align:center">
+            <a href="https://github.com/felipetanso" target="blank" rel="noopener"><img src="https://avatars0.githubusercontent.com/u/5841447?s=115&v=4"><br><sub>@felipetanso | Business Dev.</sub></a>
         </td>
     </tr>
 </table>
