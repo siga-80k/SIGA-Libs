@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="SIGA LOGOTYPE" src="https://imgur.com/a/FJbl0Xc.png" />
+    <img alt="SIGA LOGOTYPE" src="https://i.imgur.com/ZuNXLU8.png" />
     <br>
     S.I.G.A. - Segurança Integrada de Guarda Automotiva
 </h1>
