@@ -36,8 +36,15 @@
   </p>
 
 
-# Resume
+# Propósito
 
+  <p>
+    Um rastreador autônomo de baixo custo com tecnologia de comunicação por rádio frequência (RF) combinada com serviços baseados em localização (SBL) por meio de um micro-circuito. 
+
+    Possui componentes, como receptor e transmissor de rádio frequência, microfone, wi-fi, bluetooth, SIM slot. O SIGA COM é o principal responsável por conectar o caminhoneiro com autoridades e serviços indispensáveis para a sua segurança e bem estar de forma discreta, segura e autônoma.
+
+    O SIGA COM se destaca por fazer uso de rede de comunicação em malha via radiofrequência para contornar a interferência de jammers.
+  </p>
 
 # Equipe de desenvolvimento
 <table>
