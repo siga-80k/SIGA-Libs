@@ -22,7 +22,7 @@
 <table>
     <tr>
         <td style="text-align:center">
-            <a href="https://github.com/eng-wilson" target="blank" rel="noopener"><img src="https://avatars1.githubusercontent.com/u/39011719?s=400&u=e8f21d6f29b423d99478af447fb7148ea1f47870&v=4"><br><sub>@eng-wilson</sub></a>
+            <a href="https://github.com/eng-wilson" target="blank" rel="noopener"><img src="https://avatars2.githubusercontent.com/u/39011719?s=400&u=e8f21d6f29b423d99478af447fb7148ea1f47870&v=4"><br><sub>@eng-wilson</sub></a>
         </td>
         <td style="text-align:center">
             <a href="https://github.com/BrewertonSantos" target="blank" rel="noopener"><img src="https://avatars2.githubusercontent.com/u/55927647?s=115&u=fdd724c245678796918063eb59d9e60be52f6e54&v=4"><br><sub>@BrewertonSantos</sub></a>
