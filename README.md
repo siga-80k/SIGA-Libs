@@ -68,7 +68,7 @@
 
   <p align="center">
     <a href="https://bit.ly/2YGgZvQ" target="_blank">
-      <img alt="Apk Demo" src="https://i.imgur.com/ekMIWIA.png">
+      <img alt="Apk Demo" src="https://i.imgur.com/ekMIWIA.png" width="425" height="109">
     </a>
   </p>
 
@@ -111,6 +111,7 @@
 # Equipe de desenvolvimento
 <table align="center">
     <tr>
+        <td></td>
         <td style="text-align:center">
             <a href="https://github.com/eng-wilson" target="blank" rel="noopener"><img src="https://avatars2.githubusercontent.com/u/39011719?s=115&u=e8f21d6f29b423d99478af447fb7148ea1f47870&v=4"><br><sub>@eng-wilson | React Dev.</sub></a>
         </td>
