@@ -12,7 +12,7 @@
 
   <ItemGroup>
     <PackageReference Include="Google.Apis.Auth" Version="1.46.0" />
-    <PackageReference Include="Mailkit" Version="2.7.0" />
+    <PackageReference Include="Mailkit" Version="4.16.0" />
     <PackageReference Include="Microsoft.CognitiveServices.Speech" Version="1.12.1" />
   </ItemGroup>
 
